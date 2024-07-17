@@ -1,5 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on "Automated framework for flexibility services in a battery energy storage proliferated smart power distribution system".
+🔭 I’m currently working on an "Automated framework for flexibility services in a battery energy storage proliferated smart power distribution system".
+Royal Holloway University of London
 
 <!--
 **BilalAhmad096/BilalAhmad096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
