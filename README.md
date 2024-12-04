@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on an "Automated framework for flexibility services in a battery energy storage proliferated smart power distribution system".
+🔭 I’m currently working on "Flexibility services in power distribution system using BESS".
 Royal Holloway University of London
 
 <!--
