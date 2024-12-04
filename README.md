@@ -1,6 +1,7 @@
 ## Hi there 👋
 🔭 I’m currently working on "Flexibility services in power distribution system using BESS".
-Royal Holloway University of London
+
+@ Royal Holloway University of London
 
 <!--
 **BilalAhmad096/BilalAhmad096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
